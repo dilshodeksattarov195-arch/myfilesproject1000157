@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscalculate",
+        "uuid": 1189432,
+        "checksum": "5emts"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
